@@ -23,3 +23,5 @@ Grab the little lego guy and have him sit directly in front of the yellow block 
 
 Place the blue orb thing and attach it to the left over space behind the guy.
 ![lego instructions 8](https://raw.githubusercontent.com/maddypetersen/Tech-Writing/master/8.jpg)
+
+Your finished!! Now you have a lego car with a guy transporting something! Yay!
