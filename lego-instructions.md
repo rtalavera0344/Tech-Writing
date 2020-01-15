@@ -21,7 +21,7 @@ Take the black railing and put it on the back red block.
 Grab the little lego guy and have him sit directly in front of the yellow block like he is driving.
 ![lego instructions 7](https://raw.githubusercontent.com/maddypetersen/Tech-Writing/master/7.jpg)
 
-Place the blue orb thing and attach it to the left over space behind the guy.
+Place the blue orb and attach it to the space behind Mr. Lego.
 ![lego instructions 8](https://raw.githubusercontent.com/maddypetersen/Tech-Writing/master/8.jpg)
 
-Your finished!! Now you have a lego car with a guy transporting something! Yay!
+You're finished!! Now you have a lego car with a guy transporting something! Yay!
