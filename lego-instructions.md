@@ -1,5 +1,7 @@
 Lego Instructions
 
+List of Lego Pieces perhaps, before going straight into the building phase?
+
 Grab the large black block with the pegs sticking out of it
 ![lego instructions 1](https://raw.githubusercontent.com/maddypetersen/Tech-Writing/master/1.jpg)
 
